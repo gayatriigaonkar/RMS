@@ -1,4 +1,5 @@
 # Restaurant Management System
+4 modules- Login/ OTP Authentication, Ordering Food, Reserving Tables, Providing Feedback
 # Home Page
 ![food](https://user-images.githubusercontent.com/104668403/166107476-4da7f3f0-d055-471a-aa10-b3e2d6efacfd.png)
 # SignUp Page
