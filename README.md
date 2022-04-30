@@ -4,5 +4,6 @@
 # SignUp Page
 ![signup](https://user-images.githubusercontent.com/104668403/166107699-c946f671-1bd2-4bcc-91db-841f4e8123d3.png)
 # Menu Page
-
+![food2](https://user-images.githubusercontent.com/104668403/166108042-5d54a5e9-3a2e-4022-81ce-d7120e513786.jpg)
 # Cart Page
+![cart](https://user-images.githubusercontent.com/104668403/166108059-15c22621-334e-48b4-b599-5122cdf6869e.png)
